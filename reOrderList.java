@@ -4,6 +4,9 @@
 2. reverse the second half
 3. logic process - get a temp and move slow and fast using temp and reorder the LL
 4. merge two linked list
+
+Time Complex : O(n)
+Space Complex: O(1) - constant
 */
 /**
  * Definition for singly-linked list.
